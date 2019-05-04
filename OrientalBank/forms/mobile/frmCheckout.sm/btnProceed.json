@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc9e776bd61e44ecaee7f99edb43d2c5",
+    "_text_": "Proceed",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s34b5a0282a544b99876d476e59a2016",
+    "id": "btnProceed",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f29b93a661074e318a04bbb829eb9582",
+    "name": "kony.ui.Button",
+    "parent": "flxCheckoutContainer",
+    "pf": "frmCheckout",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

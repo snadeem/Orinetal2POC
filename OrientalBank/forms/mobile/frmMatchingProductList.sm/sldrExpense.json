@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSlider",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_max_": 5000,
+    "_min_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_step_": 5,
+    "_thickness_": 2,
+    "_top_": {
+        "type": "string",
+        "value": "79%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "android": {
+        "thumbImage": "slider_android.png"
+    },
+    "androidwearos": {
+        "thumbImage": "slider_android.png"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "orientation": "horizontal",
+            "viewType": "default"
+        }
+    },
+    "id": "sldrExpense",
+    "imgwt": 132,
+    "info": null,
+    "ipad": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iphone": {
+        "psp": {
+            "enableThumbTintColor": false
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c95392b44362458daa7106bfe0fd2a9c",
+    "leftskin": "s0a123cf8c33426e9ed9852bfad39b1d",
+    "maxlabel": "",
+    "minlabel": "",
+    "name": "kony.ui.Slider",
+    "noofsteps": 1000,
+    "osPlatform": "android",
+    "osVersion": "iOS7",
+    "parent": "flxMainContainer",
+    "pf": "frmMatchingProductList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rightskin": "sded434eca4643c08db3621c589b5641",
+    "selectedvalue": 0,
+    "stepwidth": 0,
+    "tabrcandroid": {
+        "thumbImage": "slider_android.png"
+    },
+    "thumbimage": "slider.png",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "zindex": 1
+}

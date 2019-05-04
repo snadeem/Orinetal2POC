@@ -1,0 +1,538 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnLearnMore1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "btnLearnMore2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Learn More"
+            },
+            "lblAmount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblAmount2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 5.00"
+            },
+            "lblCheckTypeName1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblCheckTypeName2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Master Card Debit "
+            },
+            "lblIcon1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblIcon2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "m"
+            },
+            "lblTopBgOrange1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTopBgOrange2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "alternaterowskin": "sa27c78556ab45a785ae11fa041dffae",
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "disabledSkins": {},
+    "enablehapticfeedback": true,
+    "enablereordering": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCheckList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dccdc3bdd60d4fed9876131ef562a631",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxProductsubcontainer",
+    "pf": "frmCheckout",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": true,
+    "rowTemplateId": "bee46604ae784b328a585c85db4310b3",
+    "rowcounter": 9,
+    "rowfocusskin": "sa27c78556ab45a785ae11fa041dffae",
+    "rowskin": "sa27c78556ab45a785ae11fa041dffae",
+    "rowtemplate": "flxSegTempCheckOut",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s3f8adce7a1d49e28afd58b264f64f16",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": false,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnLearnMore1": "btnLearnMore1",
+        "btnLearnMore2": "btnLearnMore2",
+        "flx1": "flx1",
+        "flx2": "flx2",
+        "flxSegTempCheckOut": "flxSegTempCheckOut",
+        "lblAmount1": "lblAmount1",
+        "lblAmount2": "lblAmount2",
+        "lblCheckTypeName1": "lblCheckTypeName1",
+        "lblCheckTypeName2": "lblCheckTypeName2",
+        "lblIcon1": "lblIcon1",
+        "lblIcon2": "lblIcon2",
+        "lblTopBgOrange1": "lblTopBgOrange1",
+        "lblTopBgOrange2": "lblTopBgOrange2"
+    },
+    "zindex": 1
+}

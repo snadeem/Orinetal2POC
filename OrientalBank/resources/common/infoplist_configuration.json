@@ -1,0 +1,21 @@
+
+{
+   
+    "NSAppTransportSecurity" :
+    {
+        "NSAllowsArbitraryLoads" : true ,
+        "NSExceptionDomains" :
+            {
+                "pega-training-na.eastus.cloudapp.azure.com" :
+                    {
+                        "NSIncludesSubdomains" : true ,
+                        "NSExceptionAllowsInsecureHTTPLoads" : true
+                    }
+            }
+    } ,
+ 
+    "NSCameraUsageDescription" : "This is a dummy description"
+
+}
+
+

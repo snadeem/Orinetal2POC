@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se486642a9db471cb56fa38e6a9268fb",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "11dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se486642a9db471cb56fa38e6a9268fb",
+    "id": "btnLeftArrow",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ccfd94f8547e48aabc57cf004825fcca",
+    "name": "kony.ui.Button",
+    "parent": "flxCardSegment",
+    "pf": "frmMatchingProductList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

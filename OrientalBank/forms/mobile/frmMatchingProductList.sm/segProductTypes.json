@@ -1,0 +1,190 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgProductName": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblProductDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adip iscing elit. Curabitur aliquet urna ullamcorper sem auctor posuere."
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "No Monthly Fees. No Minimum Balance"
+            },
+            "lblProductNameimg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "y"
+            }
+        },
+        {
+            "imgProductName": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblProductDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adip iscing elit. Curabitur aliquet urna ullamcorper sem auctor posuere."
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "No Monthly Fees. No Minimum Balance"
+            },
+            "lblProductNameimg": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "y"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "01",
+    "enablehapticfeedback": true,
+    "focusedindex": null,
+    "focuseditem": {
+        "imgProductName": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": ""
+        },
+        "lblProductDesc": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Lorem ipsum dolor sit amet, consectetur adip iscing elit. Curabitur aliquet urna ullamcorper sem auctor posuere."
+        },
+        "lblProductName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "No Monthly Fees. No Minimum Balance"
+        },
+        "lblProductNameimg": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "y"
+        }
+    },
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segProductTypes",
+    "info": null,
+    "invokedProperty": "pageOnDotImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jb3287b0c9d744f28e6f26bc0d9bf302",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxCardSegment",
+    "pf": "frmMatchingProductList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": true,
+    "rowTemplateId": "adc47526a93c4b1b8efa6a223b1ec91c",
+    "rowcounter": 1,
+    "rowfocusskin": "sac0f54c4dcb4d74b1b75e2556ead660",
+    "rowskin": "sa27c78556ab45a785ae11fa041dffae",
+    "rowtemplate": "flxMatchingProductTemp",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s3f8adce7a1d49e28afd58b264f64f16",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": [
+        0,
+        0
+    ],
+    "selectedindices": null,
+    "selecteditems": {
+        "imgProductName": {
+            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+            "src": ""
+        },
+        "lblProductDesc": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "Lorem ipsum dolor sit amet, consectetur adip iscing elit. Curabitur aliquet urna ullamcorper sem auctor posuere."
+        },
+        "lblProductName": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "No Monthly Fees. No Minimum Balance"
+        },
+        "lblProductNameimg": {
+            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+            "text": "y"
+        }
+    },
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": null,
+    "separatorrequired": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 973,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxMatchingProductTemp": "flxMatchingProductTemp",
+        "imgProductName": "imgProductName",
+        "lblProductDesc": "lblProductDesc",
+        "lblProductName": "lblProductName",
+        "lblProductNameimg": "lblProductNameimg"
+    },
+    "zindex": 1
+}

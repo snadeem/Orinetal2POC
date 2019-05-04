@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s48c7c158e33450a85f6bc93a3255f25",
+    "_text_": "Learn More",
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s48c7c158e33450a85f6bc93a3255f25",
+    "id": "btnLearnMore1",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f898bbb2a1e84af4a92f3a5e462a2b5a",
+    "name": "kony.ui.Button",
+    "parent": "flx1",
+    "pf": "tempCheckOut",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
